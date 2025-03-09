@@ -5,7 +5,7 @@ Assess the performance of different RAG methods in financial documents analysis 
 ## Assessment criteria:
 1. relevance
 2. length of retrieved context
-3. <s>speed<\s>
+3. <s>speed</s>
 4. <s>cost
 
 ## Methods to test:
