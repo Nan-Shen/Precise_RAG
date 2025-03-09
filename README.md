@@ -1,6 +1,6 @@
 # Precise_RAG
 ## Aim:
-1. Assess the performance of different RAG methods in financial documents analysis (primaryly for background investigation for consulting or stock purchase).
+1. Assess the performance of different RAG methods in financial documents analysis (background investigation for consulting or stock purchase).
 2. Build a webapp for easy interaction with the best performance RAG method.
 
 ## Assessment criteria:
