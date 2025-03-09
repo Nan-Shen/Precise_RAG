@@ -20,4 +20,7 @@
 
 ## Conclusion:
 Hybrid search combined ColBert, BM25 and reranker had the best performance. ColBert had significantly better performance than dense embeddings. Keyword search did not contribute too much in hybrid search. But rerank put the most relevent content on top, especially in precise searched. Between two dense embedding models, the one with more parameters worked better and also large context will improve the performance. Due to the limitation of fund and time, I did not explore larger or fine tuned embedding models and those may outperform all the methods included in this study.
+
+Here is an example of the model precisely retrieved numbers from a table in a 118-page pdf file and calulated the current ratio of NVIDIA by January 2025.
+![title](outputs/currentratio_ragresults.png)
 ![title](outputs/10kbalancesheet.png)
