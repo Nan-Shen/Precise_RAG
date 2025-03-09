@@ -7,10 +7,10 @@ Assess the performance of different RAG methods in financial documents analysis 
 3. <s>speed
 4. <s>cost
 
-# Methods to test:
+## Methods to test:
 1. Dense Embeddings
    1.1 parameters
-   1.2 <s>finetune embedding model (need GPU machine, too expensive for now)<\s>
+   1.2 <s>finetune embedding model (need GPU machine, too expensive for now)
 2. ColBERT
 4. Hybrid retriever and rerank
 5. <s>Knowledge Augmented Generation (KAG, need to build a domain-specific architecture from sratch)
