@@ -1,10 +1,11 @@
 # Precise_RAG
 ## Aim:
 Assess the performance of different RAG methods in financial documents analysis (primaryly for background investigation for consulting or stock purchase)
+
 ## Assessment criteria:
 1. relevance
 2. length of retrieved context
-3. <s>speed
+3. <s>speed<\s>
 4. <s>cost
 
 ## Methods to test:
